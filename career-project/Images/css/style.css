@@ -1,0 +1,11 @@
+img {
+  width: 100px;
+  margin: 20px;
+  float: right;
+  border-style: double;
+  border-width: 10px;
+  border-color: aqua;}
+
+  body{
+    background-color: yellow;
+  }
